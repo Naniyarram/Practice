@@ -1,0 +1,1 @@
+print('This is Example no.2 in python')
